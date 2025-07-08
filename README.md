@@ -1,5 +1,7 @@
 # portfolio-app-test
 
-# Portfolio App の Binder 起動
+## Portfolio App の Binder 起動
 
-[![Binder](https://mybinder.org/v2/gh/<soken0350>/portfolio-app-test/main?filepath=portfolio_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](
+  https://mybinder.org/v2/gh/soken0350/portfolio-app-test/main?filepath=portfolio_app.ipynb
+)
